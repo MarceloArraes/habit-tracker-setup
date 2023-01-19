@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./styles/global.css";
 import reactLogo from "./assets/react.svg";
 import "./App.css";
 import { Habit } from "./components/Habit";
